@@ -1,6 +1,6 @@
-# Name of Streamlit App
+# Bello Streamlit
 
-Description of the app ...
+Datarockie course 2022
 
 ## Demo App
 
